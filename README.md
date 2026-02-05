@@ -7,7 +7,7 @@ Criado por Daniel Pereira (dpnnl)
 
 ## 🇧🇷 Português
 
-Com o WinPDF você pode mesclar diversos arquivos PDF em apenas 1!
+Com o SQFlite Notes você pode criar, editar e excluir notas simples; utiliza SQLite para salvar no dispositivo.
 
 ### ⚠️ Compatibilidade e UI
 * Desenvolvido exclusivamente para Android
@@ -24,7 +24,7 @@ Pronto, para compilação e execução, testado no Android 16
 
 ## 🇺🇸 English
 
-With WinPDF you can merge multiple PDF files into just one!
+With SQFlite Notes you can create, edit, and delete simple notes; it uses SQLite to save them to your device.
 
 ### ⚠️ Compatibility and UI
 * Developed exclusively for Android
