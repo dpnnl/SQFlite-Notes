@@ -1,16 +1,39 @@
-# sqflite_notes
+# SQFlite Notes
+Criado por Daniel Pereira (dpnnl)
 
-A new Flutter project.
+<img src="images/image_1.png" height="480">
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🇧🇷 Português
 
-A few resources to get you started if this is your first Flutter project:
+Com o SQFlite Notes você pode criar, editar e excluir notas simples; utiliza SQLite para salvar no dispositivo.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### ⚠️ Compatibilidade e UI
+* Desenvolvido exclusivamente para Android
+* Cores do tema se adaptam ao Material You!
+* Utiliza SQLite/SQFlite, para salvar as notas em um banco de dados offline
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Flutter 💙
+Desenvolvido com a versão do 3.35 do Flutter e 3.9 do Dart!
+
+### Estado do Projeto
+Pronto, para compilação e execução, testado no Android 16
+
+---
+
+## 🇺🇸 English
+
+With SQFlite Notes you can create, edit, and delete simple notes; it uses SQLite to save them to your device.
+
+### ⚠️ Compatibility and UI
+* Developed exclusively for Android
+* Theme colors adapt to Material You!
+
+* Uses SQLite/SQFlite to save notes in an offline database
+
+### Flutter 💙
+Developed with Flutter version 3.35 and Dart version 3.9!
+
+### Project Status
+Ready for compilation and execution, tested on Android 16
